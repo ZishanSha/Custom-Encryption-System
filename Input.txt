@@ -1,0 +1,15 @@
+This is a secret message that needs to be encrypted!
+
+Hello World! This encryption system uses XOR cipher with a rotating key.
+The key changes based on the position of each character.
+
+Features:
+- Position-dependent encryption
+- XOR operations (self-reversing)
+- Simple yet effective for educational purposes
+
+Created for CPSC 253 - Cybersecurity Foundations
+California State University, Fullerton
+
+Test data: 1234567890
+Special characters: !@#$%^&*()
