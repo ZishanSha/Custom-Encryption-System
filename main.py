@@ -1,7 +1,7 @@
 def encrypt(plaintext):
     """
     Encrypts plaintext using XOR with rotating key based on position.
-    
+
     Args:
         plaintext (str): The text to encrypt
         
